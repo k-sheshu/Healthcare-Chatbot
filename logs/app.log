@@ -1,0 +1,4 @@
+2026-02-23 20:46:05,540 - INFO - Received user query. Selected Tone: Professional
+2026-02-23 20:46:07,380 - INFO - AFC is enabled with max remote calls: 10.
+2026-02-23 20:46:12,776 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 20:46:12,796 - INFO - Successfully generated response from Gemini API.
